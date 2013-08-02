@@ -1,6 +1,6 @@
 # OmniAuth Goodsie
 
-Shopify OAuth2 Strategy for OmniAuth 1.0.
+Goodsie OAuth2 Strategy for OmniAuth 1.0.
 
 ## Installing
 
