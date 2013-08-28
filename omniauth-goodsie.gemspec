@@ -10,7 +10,8 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/dropstream/omniauth-goodsie"
   s.summary     = %q{OmniAuth strategy for Goodsie}
   s.description = %q{In this gem you will find an OmniAuth Goodsie strategy.}
-
+  s.license     = 'MIT'
+  
   s.rubyforge_project = "omniauth-ebay"
 
   s.files         = `git ls-files`.split("\n")
